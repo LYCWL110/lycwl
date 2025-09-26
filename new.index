@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>我同的小网站</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="
+     background-color: #f1f1f1;
+     text-align: center;
+     padding: 40px;
+    ">
+     <img src="https://i.imgs.ovh/2025/09/26/7q6vAm.jpeg" alt="7q6vAm.jpeg" width="80px" hight = "80px">
+    </div>
+    <div style="
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 15px;
+    line-hight: 1.7;
+  
+    ">
+      <p>现在站在你面前的是李某人的小弟，</p>
+      <p>18岁的潍坊人</p>
+      <p>白城最呆瓜的人：贺同成</p>
+    </div>
+    <div style="
+     background-color: #f1f1f1;
+     text-align: center;
+     padding: 40px;
+     font-size:12px;
+    ">
+     <p>我同的网站</p>
+     
+    </div>
+  </body>
+</html>
